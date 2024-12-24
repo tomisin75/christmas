@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #ffefe6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background: #b30000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #countdown {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff7e6;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  #friend-tributes .tribute {
+    background: #e6f7ff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
+  footer {
+    background: #b30000;
+    color: #fff;
+    padding: 10px;
+  }
+  
